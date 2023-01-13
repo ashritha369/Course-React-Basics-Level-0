@@ -28,3 +28,9 @@ Throughout the course we will be using Yarn, however using NPM or Yarn is a pers
 **Install a package globally**: npm install package -g == yarn global add package
 
 ---
+
+# Good to Know
+
+## React Scripts
+
+[https://blog.logrocket.com/everything-you-need-know-about-react-scripts/](https://blog.logrocket.com/everything-you-need-know-about-react-scripts/)
