@@ -5,3 +5,4 @@
 3. set up the git
 4. And then create the react app using 'npx' command . refer to official reactjs.org website link for the same
    [Create React App ][https://reactjs.org/docs/create-a-new-react-app.html]
+5. Create react app official website -[https://create-react-app.dev/](https://create-react-app.dev/)
